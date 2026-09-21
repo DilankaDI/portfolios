@@ -2,20 +2,23 @@ import type { Metadata } from "next";
 import EshaniPramoda from "@/src/components/EshaniPramoda";
 
 export const metadata: Metadata = {
-  title: "Eshani Pramoda | Assistant Manager - Guest Relations",
+  title: "Eshani Pramoda | Commerce Graduate",
   description:
-    "Professional portfolio of Eshani Pramoda, an experienced hospitality professional specializing in guest relations, front-office operations and guest experience.",
+    "Professional portfolio of Eshani Pramoda, a Commerce graduate with a strong foundation in business management, accounting, economics, administration, IT, and professional communication.",
   keywords: [
     "Eshani Pramoda",
-    "Guest Relations Manager",
-    "Assistant Manager Guest Relations",
-    "Hospitality Professional",
-    "Sri Lanka Hospitality",
+    "Commerce Graduate",
+    "Business Management",
+    "Accounting",
+    "Economics",
+    "Administrative Skills",
+    "IT Skills",
+    "Sri Lanka",
   ],
   openGraph: {
-    title: "Eshani Pramoda | Hospitality Professional",
+    title: "Eshani Pramoda | Commerce Graduate",
     description:
-      "Professional portfolio of Eshani Pramoda, Assistant Manager - Guest Relations.",
+      "Professional portfolio of Eshani Pramoda, a Commerce graduate with knowledge in business operations, administration, IT, and communication.",
     type: "profile",
     images: [
       {

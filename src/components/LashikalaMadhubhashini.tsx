@@ -161,7 +161,7 @@ const languages = [
   },
 ];
 
-export default function LashikalaPortfolio() {
+export default function LashikalaMadhubhashini() {
   const timelineRef = useRef<HTMLDivElement>(null);
 
   const { scrollYProgress } = useScroll({
@@ -336,7 +336,7 @@ export default function LashikalaPortfolio() {
 
               <div className="relative aspect-4/5 overflow-hidden rounded-4xl bg-[#ded8ce] sm:rounded-[2.5rem]">
                 <Image
-                  src="/images/lashikala.jpeg"
+                  src="/images/lashikala-madhubhashini/lashikala.jpeg"
                   alt="Lashikala Madhubhashini"
                   fill
                   priority
@@ -623,7 +623,7 @@ export default function LashikalaPortfolio() {
             <div className="grid min-h-125 lg:grid-cols-[1fr_0.9fr]">
               <div className="relative min-h-87.5 lg:min-h-full">
                 <Image
-                  src="/images/hospitality.jpg"
+                  src="/images/lashikala-madhubhashini/hospitality.jpg"
                   alt="Luxury hospitality environment"
                   fill
                   sizes="(max-width: 1024px) 100vw, 50vw"

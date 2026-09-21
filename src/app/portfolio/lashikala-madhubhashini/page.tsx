@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import LashikalaPortfolio from "@/src/components/LashikalaPortfolio";
+import LashikalaMadhubhashini from "@/src/components/LashikalaMadhubhashini";
 
 export const metadata: Metadata = {
   title: "Lashikala Madhubhashini | Assistant Manager - Guest Relations",
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     type: "profile",
     images: [
       {
-        url: "/images/lashikala.jpeg",
+        url: "/images/lashikala-madhubhashini/lashikala.jpeg",
         width: 1200,
         height: 1200,
         alt: "Lashikala Madhubhashini",
@@ -29,5 +29,5 @@ export const metadata: Metadata = {
 };
 
 export default function Page() {
-  return <LashikalaPortfolio />;
+  return <LashikalaMadhubhashini />;
 }

@@ -301,7 +301,7 @@ export default function EshaniPramoda() {
             </div>
 
             <p className="text-sm text-white leading-relaxed">
-              Hewa Meemana Wickramasinghehe Eshani Pramoda
+              Hewa Meemana Wickramasinghe Eshani Pramoda
             </p>
           </div>
 

@@ -89,7 +89,7 @@ const expertise = [
 const education = [
   {
     year: "2017 - 2022",
-    title: "BSc (Hons) in Agriculture",
+    title: "BBST(Hons) in Agriculture",
     institution: "Wayamba University of Sri Lanka",
     icon: GraduationCap,
   },
@@ -271,7 +271,7 @@ export default function SasiruLakdham() {
                 </a>
 
                 <a
-                  href="mailto:sladkham@gmail.com"
+                  href="mailto:sasirulakdham1998@icloud.com"
                   className="inline-flex items-center gap-2 rounded-full border border-black/15 px-5 py-3 text-xs font-medium transition-colors hover:border-[#9a7650] hover:text-[#9a7650]"
                 >
                   <Mail size={14} />
@@ -384,13 +384,13 @@ export default function SasiruLakdham() {
                 three years of experience across food manufacturing and food
                 packaging. My experience covers HACCP, GMP, FSSC 22000, internal
                 audits, laboratory testing and customer complaint handling. I hold
-                a BSc (Hons) in Agriculture from Wayamba University of Sri Lanka.
+                a BBST(Hons) in Agriculture from Wayamba University of Sri Lanka.
               </p>
 
               <dl className="mt-8 grid gap-5 text-sm sm:grid-cols-2">
                 <div>
                   <dt className="text-xs text-[#b89469]">Address</dt>
-                  <dd className="mt-2 leading-6 text-white/60">No. 92, Second Step, Panvila Terrace, Kalutara South, Sri Lanka</dd>
+                  <dd className="mt-2 leading-6 text-white/60">No. 292, 2nd Step, Panwila Terance, Kalutara South, Sri Lanka</dd>
                 </div>
                 <div>
                   <dt className="text-xs text-[#b89469]">Marital Status</dt>
@@ -793,7 +793,7 @@ export default function SasiruLakdham() {
 
           <div className="mt-9 flex flex-wrap justify-center gap-3">
             <a
-              href="mailto:slakdham@gmail.com"
+              href="mailto:sasirulakdam1998@icloud.com"
               className="inline-flex items-center gap-2 rounded-full bg-[#1b1b19] px-6 py-3.5 text-xs font-medium text-white transition-transform hover:scale-[1.03]"
             >
               <Mail size={14} />
@@ -877,10 +877,10 @@ export default function SasiruLakdham() {
                 <div className="mt-10 flex flex-col gap-5 border-t border-black/10 pt-6 sm:flex-row sm:items-center sm:justify-between">
                 <div className="flex flex-col gap-1 text-sm text-black/45 sm:flex-row sm:items-center sm:gap-4">
                     <a
-                    href="mailto:sladkham@gmail.com"
+                    href="mailto:sasirulakdham1998@icloud.com"
                     className="transition-colors hover:text-[#9a7650]"
                     >
-                    sladkham@gmail.com
+                    sasirulakdham1998@icloud.com
                     </a>
 
                     <span className="hidden text-black/20 sm:inline">•</span>
